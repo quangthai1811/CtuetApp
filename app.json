@@ -1,0 +1,12 @@
+{
+  "name": "CtuetApp",
+  "displayName": "CtuetApp",
+  "expo": {
+    "name": "CtuetApp",
+    "slug": "CtuetApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
