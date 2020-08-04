@@ -6,7 +6,7 @@ import { Button } from 'native-base';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 
 
-
+//
 //const arlert = Alert.alert("The film at 2nd:  " + responseJson.movies[1].title);
 
 export default class FirstScreen extends React.Component{

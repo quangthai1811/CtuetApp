@@ -12,7 +12,7 @@ import ViewTab from "./ViewTab";
 const Tab = createMaterialTopTabNavigator();
 
 
-
+//
 export default class FeedScreen extends React.Component{
 
     render(){

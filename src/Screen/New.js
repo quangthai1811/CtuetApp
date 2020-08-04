@@ -1,6 +1,7 @@
 import React from 'react';
 import {FlatList, Image, Linking, StyleSheet, Text, View} from 'react-native';
 import {TouchableOpacity} from "react-native-gesture-handler";
+//
 
 export default class New extends React.Component{
     constructor(props) {
